@@ -1,3 +1,3 @@
 # Earthquake-Prediction
 
-Kaggle Compitition Model !!
+Kaggle Compitition Model 
